@@ -57,9 +57,10 @@ Recipe-Finder/
 
 
 🔹 Search Results
-<img width="1302" height="621" alt="image" src="https://github.com/user-attachments/assets/dfac9dbd-d226-468c-a140-78cd5295c664" />
-<img width="1290" height="524" alt="image" src="https://github.com/user-attachments/assets/6d8da932-f63c-49d7-a112-c0f8edb51684" />
-<img width="1288" height="549" alt="image" src="https://github.com/user-attachments/assets/cb6801d3-74ff-40c3-ae4f-1945e8a8f1f2" />
+<img width="1311" height="525" alt="image" src="https://github.com/user-attachments/assets/2ec5c6f7-45fe-4348-9ca8-7e4abcfe5846" />
+<img width="1316" height="452" alt="image" src="https://github.com/user-attachments/assets/bc9867d1-d621-4c39-bb36-211725faf860" />
+<img width="1324" height="506" alt="image" src="https://github.com/user-attachments/assets/bfa90c1d-fcce-43dd-b03f-8a2d10b39ff1" />
+
 
 
 
