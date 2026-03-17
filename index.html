@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Recipe Finder</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+
+<header>
+    <h1>Recipe Finder</h1>
+    <p>Search and save your favorite meals</p>
+</header>
+
+
+<nav>
+    <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Recipes</a></li>
+        <li><a href="#">Favorites</a></li>
+    </ul>
+</nav>
+
+
+<section id="search-section">
+    <h2>Search Recipes</h2>
+
+    <div class="search-box">
+        <input type="text" id="searchInput" placeholder="Enter ingredient...">
+        <button id="searchBtn">Search</button>
+    </div>
+
+    <div class="filters">
+        <label><input type="checkbox" value="Breakfast"> Breakfast</label>
+        <label><input type="checkbox" value="Lunch"> Lunch</label>
+        <label><input type="checkbox" value="Dinner"> Dinner</label>
+        <label><input type="checkbox" value="Dessert"> Dessert</label>
+    </div>
+</section>
+
+
+<section id="results-section">
+    <h2>Recipe Results</h2>
+    <div id="recipeList" class="grid"></div>
+</section>
+
+
+<section id="favorites-section">
+    <h2>Favorites</h2>
+    <div id="favList" class="grid"></div>
+</section>
+
+<footer>
+    <p>© 2026 Recipe Finder | All Rights Reserved</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
